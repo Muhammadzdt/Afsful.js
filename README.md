@@ -1,0 +1,1 @@
+# Afsful.js
